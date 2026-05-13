@@ -1,0 +1,29 @@
+# Fichiers compilés
+target/
+*.class
+
+# NetBeans fichiers personnels
+nbproject/
+nb-configuration.xml
+*.swp
+*.lock
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+
+# IDE
+.settings/
+.project
+.classpath
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Base de données
+*.db
+*.sqlite
